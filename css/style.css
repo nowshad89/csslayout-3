@@ -1,0 +1,122 @@
+*{
+    margin: 0%;
+}
+.logo{
+    background-color: rgb(85, 70, 70);
+    width: 30%;
+    height: 80px;
+    float: left;
+    
+}
+.logo h1{
+    color: white;
+    text-align: center;
+}
+.h_banner{
+    background-color: chocolate;
+    width: 70%;
+    height: 80px;
+    float: right;
+}
+.h_banner h1{
+    color: black;
+    text-align: center;
+}
+.header{
+    overflow: hidden;
+}
+.h_bar{
+    background-color: darkkhaki;
+    height: 85px;
+}
+.h_bar h1{
+    color: black;
+    text-align: center;
+    padding: 15px;
+}
+.content{
+    overflow: hidden;
+}
+.l_block{
+    background-color: crimson;
+    width: 20%;
+    height: 1000px;
+    float: left;
+}
+.l_block h1{
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+.m_block{
+    background-color: rgb(19, 16, 16);
+    width: 60%;
+    height: 1000px;
+    float: left;
+}
+.m_block h1{
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+.r_block{
+    background-color: crimson;
+    width: 20%;
+    height: 1000px;
+    float: right;
+}
+.r_block h1{
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+.upper_block{
+    background-color: yellow;
+    height: 30%;
+}
+.upper_block h1{
+    color: black;
+    text-align: center;
+}
+.mid_block{
+    background-color: whitesmoke;
+    height: 40%;
+}
+.mid_block h1{
+    text-align: center;
+}
+.bottom_block{
+    background-color: darkseagreen;
+    height: 30%;
+}
+.bottom_block h1{
+    color: black;
+    text-align: center;
+}
+.c_l_block{
+    background-color: blueviolet;
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+.c_l_block h1{
+    color: white;
+}
+.c_r_block{
+    background-color: cornflowerblue;
+    width: 50%;
+    float: right;
+    height: 100%;
+}
+.c_r_block h1{
+    color: white;   
+}
+.footer{
+    background-color: royalblue;
+    height: 150px;
+}
+.footer h1{
+    color:black;
+    text-align: center;
+    padding: 30px;
+}
